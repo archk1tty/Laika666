@@ -1,7 +1,7 @@
 -  Hi, I’m @Laika666
 -  I’m interested in opsec
 -  currently learning java :) 
--  How to reach me: ask for my signal on ig: kommunismaus161  
+-  How to reach me: twitter --> signal 
 
 <!---
 Laika666/Laika666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
