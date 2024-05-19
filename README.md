@@ -1,7 +1,6 @@
 -  Hi, I’m @Laika666
--  I’m interested in opsec
--  currently learning java :) 
--  How to reach me: twitter --> signal 
+-  I’m interested in archlinux and cybersec
+
 
 <!---
 Laika666/Laika666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
