@@ -1,5 +1,16 @@
--  Hi, I’m @Laika666
--  I’m interested in archlinux and cybersec
+### Hi :3 
+
+#### warning: the data is corrupted
+  _______=C_________________O
+ )          ==_]]]]]]=========
+/________/(___)    
+![legalize cyberweapons]
+
+meow meow
+
+Skills: LINUX / CYBERSEC 
+
+- 👾 I’m currently working on this:
 
 
 <!---
